@@ -158,15 +158,13 @@
     }
 }
 
-h1 {
-    font-size: 25px;
-    background: #cfcfcf;
+input {
+    border: 1px solid #ccc;
+    padding: 5px 10px;
+    border-radius: 5px;
+    cursor: pointer;
 }
 
-h2 {
-    font-size: 23px;
-}
-
-a {
-    text-decoration: underline;
+.error {
+    color: red;
 }
